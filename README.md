@@ -7,7 +7,7 @@ motor 1:
 1: black - white
 2: red - blue
 
-info on stepper: https://bends.se/?page=notebook/electronics/stepper-2
+info on stepper: https://bends.se/?page=notebook/electronics/stepper-2  
 2 phases
 rated voltage: 5V
 ohmic resistance per phase: 10 ohm
@@ -31,8 +31,8 @@ The programmer's target cable should be connected to the header labelled "ICSP" 
 A4988
 [Datasheet](https://www.pololu.com/file/0J450/a4988_DMOS_microstepping_driver_with_translator.pdf)
 
-Load Supply Voltage Range VBB Operating 8 – 35 V **PROBLEM**
--> Maybe use TB6612FNG
+Load Supply Voltage Range VBB Operating 8 – 35 V **PROBLEM**  
+-> Maybe use TB6612FNG  
 -> TMC2209 Voltage Range 4.75… 29V DC
 -> TMC2202, TMC2208, TMC2224 Voltage Range 4.75… 36V DC [Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/TMC2202_TMC2208_TMC2224_datasheet_rev1.14.pdf)
 
