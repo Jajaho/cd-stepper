@@ -8,10 +8,10 @@ motor 1:
 2: red - blue
 
 info on stepper: https://bends.se/?page=notebook/electronics/stepper-2  
-2 phases
-rated voltage: 5V
-ohmic resistance per phase: 10 ohm
-degrees per step: 18°
+- 2 phases
+- rated voltage: 5V
+- ohmic resistance per phase: 10 ohm
+- degrees per step: 18°
 
 ### Creality V2.0 Mainboard
 
